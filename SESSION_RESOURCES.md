@@ -1,4 +1,4 @@
-# Microsoft Fabric: What's new and what's next? - Session resources
+![image](https://github.com/user-attachments/assets/7b7f60ba-9993-4be9-9896-03721512cb2f)# Microsoft Fabric: What's new and what's next? - Session resources
 
 > Learn more about Microsoft AI Tour on the official website.
 
@@ -17,19 +17,19 @@
 
 For your convenience, here is a list of all the links shared as QR codes during the presentation: 
 
-- https://aka.ms/aitour-data-tflow
 - https://aka.ms/aitour-data-cicd
-- https://aka.ms/aitour-data-wdk
 - https://aka.ms/aitour-data-deploy
+- https://aka.ms/aitour-data-tflow
+- https://aka.ms/aitour-data-wdk
 - https://aka.ms/aitour-data-onelake
 - https://aka.ms/aitour-data-onprem
 - https://aka.ms/aitour-data-mirror
-- https://aka.ms/aitour-data-iceberg
 - https://aka.ms/aitour-data-delta
 - https://aka.ms/aitour-data-snowflake
 - https://aka.ms/aitour-data-graphql
 - https://aka.ms/aitour-data-rti
-
+- https://aka.ms/aitour-data-clh
+- https://aka.ms/aitour-data-aiskills
 
 
 ## Dive Deeper into Microsoft Fabric
