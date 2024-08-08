@@ -6,7 +6,7 @@ This repo is a companion to this session at Microsoft AI Tour, a worldwide tour 
 
 ![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/session-cover.png)
 
-## Session Desciption
+## Session Description
 
 The analytics landscape for data focused application developers is changing fast. With AI, Real-time analytics, data sources growing exponentially and new tools available daily. In Microsoft Fabric, data, AI, BI and application development professionals have an integrated platform enabling data source unification, simplified yet feature rich user experience as well as security and governance built in. Join us to learn and see the latest announcements from Build and what the future holds.​
 
