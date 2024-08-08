@@ -21,6 +21,7 @@ For your convenience, here is a list of all the links shared as QR codes during 
 - https://aka.ms/aitour-data-deploy
 - https://aka.ms/aitour-data-tflow
 - https://aka.ms/aitour-data-wdk
+- https://aka.ms/aitour-data-trusted
 - https://aka.ms/aitour-data-onelake
 - https://aka.ms/aitour-data-onprem
 - https://aka.ms/aitour-data-mirror
