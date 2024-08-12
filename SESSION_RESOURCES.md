@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/7b7f60ba-9993-4be9-9896-03721512cb2f)# Microsoft Fabric: What's new and what's next? - Session resources
+# Microsoft Fabric: What's new and what's next? - Session resources
+
+![image](https://github.com/user-attachments/assets/7b7f60ba-9993-4be9-9896-03721512cb2f)
 
 > Learn more about Microsoft AI Tour on the official website.
 
