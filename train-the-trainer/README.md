@@ -19,11 +19,11 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Train the Trainer PowerPoint | - [Presentation](https://aka.ms/AArtlgt) | The Train the Trainer slides for this session|
-| Train the Trainer PPT Recording | - [Video](https://aka.ms/AArtlem) | Recorded delivery of the Train the Trainer PowerPoint slides |
+| Train the Trainer PowerPoint | - [Presentation](https://aka.ms/AArtsvr) | The Train the Trainer slides for this session|
+| Train the Trainer PPT Recording | - [Video](https://aka.ms/AArth1w) | Recorded delivery of the Train the Trainer PowerPoint slides |
 | Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session |
-| Session PPT Recording     | - [Video](https://aka.ms/AArtlea) |  Recorded delivery of the PowerPoint slides |
-| Session PPT Recording with commentary   | - [Video](https://aka.ms/AArtlel) |  Recorded delivery of the PowerPoint slides with commentary |
+| Session PPT Recording     | - [Video](https://aka.ms/AArsifa) |  Recorded delivery of the PowerPoint slides |
+| Session PPT Recording with commentary   | - [Video](https://aka.ms/AArsif9) |  Recorded delivery of the PowerPoint slides with commentary |
 
 
 ## Get Started
