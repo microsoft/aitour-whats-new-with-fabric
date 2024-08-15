@@ -19,11 +19,11 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Train the Trainer PowerPoint | - [Presentation](https://aitourassetstore.blob.core.windows.net/assets/Microsoft%20Fabric:%20What%27s%20new%20and%20what%27s%20next/AI%20Tour%20FY25%20-%20Microsoft%20Fabric%20What%27s%20new%20and%20what%27s%20next%20Train%20the%20Trainer.pptx) | The Train the Trainer slides for this session|
-| Train the Trainer PPT Recording | - [Video](https://aitourassetstore.blob.core.windows.net/assets/Microsoft%20Fabric:%20What%27s%20new%20and%20what%27s%20next/AI%20Tour%20FY25%20-%20Microsoft%20Fabric%20What%27s%20new%20and%20what%27s%20next%20Train%20the%20Trainer_V1.0.mp4) | Recorded delivery of the Train the Trainer PowerPoint slides |
-| Session PowerPoint        | - [Presentation](https://aitourassetstore.blob.core.windows.net/assets/Microsoft%20Fabric:%20What%27s%20new%20and%20what%27s%20next/AI%20Tour%20FY25%20-%20Microsoft%20Fabric%20What%27s%20new%20and%20what%27s%20next_V1.0.pptx) | The presentation slides for this session |
-| Session PPT Recording     | - [Video](https://aitourassetstore.blob.core.windows.net/assets/Microsoft%20Fabric:%20What%27s%20new%20and%20what%27s%20next/AI%20Tour%20FY25%20-%20Microsoft%20Fabric%20What%27s%20new%20and%20what%27s%20next_V1.0.mp4) |  Recorded delivery of the PowerPoint slides |
-| Session PPT Recording with commentary   | - [Video](https://aitourassetstore.blob.core.windows.net/assets/Microsoft%20Fabric:%20What%27s%20new%20and%20what%27s%20next/AI%20Tour%20FY25%20-%20Microsoft%20Fabric%20What%27s%20new%20and%20what%27s%20next%20with%20commentary_V1.0.mp4) |  Recorded delivery of the PowerPoint slides with commentary |
+| Train the Trainer PowerPoint | - [Presentation](https://aka.ms/AArtlgt) | The Train the Trainer slides for this session|
+| Train the Trainer PPT Recording | - [Video](https://aka.ms/AArtlem) | Recorded delivery of the Train the Trainer PowerPoint slides |
+| Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session |
+| Session PPT Recording     | - [Video](https://aka.ms/AArtlea) |  Recorded delivery of the PowerPoint slides |
+| Session PPT Recording with commentary   | - [Video](https://aka.ms/AArtlel) |  Recorded delivery of the PowerPoint slides with commentary |
 
 
 ## Get Started
