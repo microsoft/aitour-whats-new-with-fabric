@@ -8,8 +8,8 @@ Along with the video of the presentation, this document will link to all the ass
 code.
 
 1.  Read document in its entirety
-2.  Familiarize with the Train the Trainer PowerPoint
-3.  Watch the Train the Trainer PPT Recording
+2.  Familiarize with the Session Delivery Resources PowerPoint
+3.  Watch the Session Delivery Resources PPT Recording
 4.  Familiarize with the Session Power Point
 5.  Watch the Session PPT Recording  
 6.  Watch the Session PPT Recording with Commentary 
@@ -19,8 +19,8 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Train the Trainer PowerPoint | - [Presentation](https://aka.ms/AArtsvr) | The Train the Trainer slides for this session|
-| Train the Trainer PPT Recording | - [Video](https://aka.ms/AArth1w) | Recorded delivery of the Train the Trainer PowerPoint slides |
+| Session Delivery Resources PowerPoint | - [Presentation](https://aka.ms/AArtsvr) | The Session Delivery Resources slides for this session|
+| Session Delivery Resources PPT Recording | - [Video](https://aka.ms/AArth1w) | Recorded delivery of the Session Delivery Resources PowerPoint slides |
 | Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session |
 | Session PPT Recording     | - [Video](https://aka.ms/AArsifa) |  Recorded delivery of the PowerPoint slides |
 | Session PPT Recording with commentary   | - [Video](https://aka.ms/AArsif9) |  Recorded delivery of the PowerPoint slides with commentary |
@@ -28,7 +28,7 @@ code.
 
 ## Get Started
 
-This training repository is divided in to the following sections:
+This collection of Session Delivery Resources is divided in to the following sections:
 
 | [Slides](#slides) | [Timing](#timing) | [Demos](#demos) | 
 |-------------------|---------------------------|--------------------------------------

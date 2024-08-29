@@ -27,7 +27,7 @@ The analytics landscape for data focused application developers is changing fast
 
 You can find additional resources, including the slides of the presentation, [here](./SESSION_RESOURCES.md).
 
-If you will present this talk, you can find the [trainer resources here](./train-the-trainer/README.md). 
+If you will present this talk, you can find the [session delivery resources here](./session-delivery-resources/README.md). 
 
 ## Content Owners
 
