@@ -66,7 +66,7 @@ Connect with fellow Fabric enthusiasts and experts. Your one-stop community hub:
 - The [Ideas Platform](https://ideas.fabric.microsoft.com/) for sharing and voting on product feedback.
 - Stay updated with the [Official Updates Blog](https://blog.fabric.microsoft.com/blog/).
 
-### Slides in additional languages
+## Slides in additional languages
 | Language | Last updated | 
 |------------------- | ---- |
 | [Spanish](https://aka.ms/AAs7u2a) | 2024.09.13 | 
