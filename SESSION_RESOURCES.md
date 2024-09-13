@@ -65,3 +65,16 @@ Connect with fellow Fabric enthusiasts and experts. Your one-stop community hub:
 - A global directory of [Fabric User Groups](https://community.fabric.microsoft.com/t5/Fabric-User-Groups/ct-p/fbc_usergroups).
 - The [Ideas Platform](https://ideas.fabric.microsoft.com/) for sharing and voting on product feedback.
 - Stay updated with the [Official Updates Blog](https://blog.fabric.microsoft.com/blog/).
+
+### Slides in additional languages
+| Language | Last updated | 
+|------------------- | ---- |
+| [Spanish](https://aka.ms/AAs7u2a) | 2024.09.13 | 
+| [Portuguese](https://aka.ms/AAs7u2c) | 2024.09.13| 
+
+## Change Log
+Here is a log of the changes made to this file:
+
+| Date       | Changes |
+|------------|---------|
+| 2024.09.13 | Added Change log, Additional language section with Spanish and Portuguese PowerPoint slides |
