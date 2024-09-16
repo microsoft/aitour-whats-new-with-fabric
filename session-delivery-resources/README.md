@@ -25,7 +25,7 @@ code.
 |-------------------|----------------------------------|-------------------|
 | Session Delivery Resources PowerPoint | - [Presentation](https://aka.ms/AArtsvr) | The Session Delivery Resources slides for this session|
 | Session Delivery Resources PPT Recording | - [Video](https://aka.ms/AArth1w) | Recorded delivery of the Session Delivery Resources PowerPoint slides |
-| Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session |
+| Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session, Additional Languages |
 | Session PPT Recording     | - [Video](https://aka.ms/AArsifa) |  Recorded delivery of the PowerPoint slides |
 | Session PPT Recording with commentary   | - [Video](https://aka.ms/AArsif9) |  Recorded delivery of the PowerPoint slides with commentary |
 
@@ -60,7 +60,19 @@ Note: Timings are approximate but overall, should allow a buffer for extending a
 31:00 - 36:00 | Copilot in Microsoft Fabric 
 36:00 - 41:00 | Closing / Calls to Action 
 
+### Slides in additional languages
+| Language | Last updated | 
+|------------------- | ---- |
+| [Spanish](https://aka.ms/AAs7u2a) | 2024.09.13 | 
+| [Portuguese](https://aka.ms/AAs7u2c) | 2024.09.13| 
 
 ## Demos
 
 > All demos are provided as recordings inside the presentation deck. There is no need to setup any complex environments or worry about network access during your presentation.  Please ensure that you are aware of cues and timings in these recordings to ensure a high quality delivery!
+
+## Change Log
+Here is a log of the changes made to this file:
+
+| Date       | Changes |
+|------------|---------|
+| 2024.09.13 | Added Change log, Additional language section with Spanish and Portuguese PowerPoint slides |
