@@ -25,7 +25,7 @@ code.
 |-------------------|----------------------------------|-------------------|
 | Session Delivery Resources PowerPoint | - [Presentation](https://aka.ms/AArtsvr) | The Session Delivery Resources slides for this session|
 | Session Delivery Resources PPT Recording | - [Video](https://aka.ms/AArth1w) | Recorded delivery of the Session Delivery Resources PowerPoint slides |
-| Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session, [Additional Languages](session-delivery-resources/README.md) |
+| Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session, [Additional Languages](https://github.com/microsoft/aitour-whats-new-with-fabric/blob/main/session-delivery-resources/README.md#slides-in-additional-languages) |
 | Session PPT Recording     | - [Video](https://aka.ms/AArsifa) |  Recorded delivery of the PowerPoint slides |
 | Session PPT Recording with commentary   | - [Video](https://aka.ms/AArsif9) |  Recorded delivery of the PowerPoint slides with commentary |
 
