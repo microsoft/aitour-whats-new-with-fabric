@@ -13,26 +13,6 @@
 | Fabric Roadmap    | [Fabric Roadmap](https://aka.ms/FabricRoadmap) | Be in the know with the latest developments and upcoming features. |
 | Microsoft Copilot for Data Analysts or Data Engineers  | [Learn](https://aka.ms/aitour-data-clh) | Learn more Coplot for Data professionals with this collection of resources on Microsoft Learn |
 
-## Links shared during the presentation
-
-For your convenience, here is a list of all the links shared as QR codes during the presentation: 
-
-- https://aka.ms/aitour-data-cicd
-- https://aka.ms/aitour-data-deploy
-- https://aka.ms/aitour-data-tflow
-- https://aka.ms/aitour-data-wdk
-- https://aka.ms/aitour-data-trusted
-- https://aka.ms/aitour-data-onelake
-- https://aka.ms/aitour-data-onprem
-- https://aka.ms/aitour-data-mirror
-- https://aka.ms/aitour-data-delta
-- https://aka.ms/aitour-data-snowflake
-- https://aka.ms/aitour-data-graphql
-- https://aka.ms/aitour-data-rti
-- https://aka.ms/aitour-data-clh
-- https://aka.ms/aitour-data-aiskills
-
-
 ## Dive Deeper into Microsoft Fabric
 
 ### 👩‍💻 Microsoft Fabric Career Hub
