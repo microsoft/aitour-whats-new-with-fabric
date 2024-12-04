@@ -12,22 +12,17 @@ Along with the video of the presentation, this document will link to all the ass
 code.
 
 1.  Read document in its entirety
-2.  Familiarize with the Session Delivery Resources PowerPoint
-3.  Watch the Session Delivery Resources PPT Recording
-4.  Familiarize with the Session Power Point
-5.  Watch the Session PPT Recording  
-6.  Watch the Session PPT Recording with Commentary 
-7.  Ask questions to the lead presenters
+2.  Familiarize with the Session Power Point
+3.  Watch the Session PPT Recording  
+4.  Ask questions to the lead presenters
 
 ## File Summary
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Session Delivery Resources PowerPoint | - [Presentation](https://aka.ms/AArtsvr) | The Session Delivery Resources slides for this session|
-| Session Delivery Resources PPT Recording | - [Video](https://aka.ms/AArth1w) | Recorded delivery of the Session Delivery Resources PowerPoint slides |
-| Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session, [Additional Languages](https://github.com/microsoft/aitour-whats-new-with-fabric/blob/main/session-delivery-resources/README.md#slides-in-additional-languages) |
-| Session PPT Recording     | - [Video](https://aka.ms/AArsifa) |  Recorded delivery of the PowerPoint slides |
-| Session PPT Recording with commentary   | - [Video](https://aka.ms/AArsif9) |  Recorded delivery of the PowerPoint slides with commentary |
+| Session PowerPoint        | - [Presentation](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassetsmanagement952e.blob.core.windows.net%2Fassets%2FBRK460%2520Microsoft%2520Fabric%253A%2520What%2527s%2520new%2520and%2520what%2527s%2520next%2FAI%2520Tour%2520FY25%2520-%2520Microsoft%2520Fabric%2520What%2527s%2520new%2520and%2520what%2527s%2520next_V2.0.pptx&data=05%7C02%7Cpdecarlo%40microsoft.com%7Cec93f5a838784de7841b08dd1488b6ba%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638689299640533238%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pJYvE1EbFYALt2mwxW9lBONNY7wrrJ5FVDBwx9JFQAk%3D&reserved=0) | The presentation slides for this session |
+| Session PPT Recording     | - [Video](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassetsmanagement952e.blob.core.windows.net%2Fassets%2FBRK460%2520Microsoft%2520Fabric%253A%2520What%2527s%2520new%2520and%2520what%2527s%2520next%2FAI%2520Tour%2520FY25%2520-%2520Microsoft%2520Fabric%2520What%2527s%2520new%2520and%2520what%2527s%2520next_V2.0.mp4&data=05%7C02%7Cpdecarlo%40microsoft.com%7C85e02f45addf4bc8c6bf08dd1483f494%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638689279311556269%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=kkh%2FjSb3XXZJF8MHkAn%2FBLyviAqnL4zNVKp6iWuMiKw%3D&reserved=0) |  Recorded delivery of the PowerPoint slides |
+
 
 
 ## Get Started
@@ -36,7 +31,7 @@ This collection of Session Delivery Resources is divided in to the following sec
 
 | [Slides](#slides) | [Timing](#timing) | [Demos](#demos) | 
 |-------------------|---------------------------|--------------------------------------
-| ~70 slides - 45 minutes delivery time | Timing breakdown for all presentation topics | Demo notes
+| ~65 slides - 45 minutes delivery time | Timing breakdown for all presentation topics | Demo notes
 
 ## Slides
 
@@ -48,31 +43,14 @@ Note: Timings are approximate but overall, should allow a buffer for extending a
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Introduction 
-5:00 - 8:00  | Unified data platform for every team at any scale
-8:00 - 12:00 | Microsoft Fabric Workload Development kit 
-12:00 - 15:00 | Overview and latest features 
-15:00 - 18:00 | Unified Data Estate in OneLake 
-18:00 - 20:00 | Open Data formats
-20:00 - 23:00 | OneLake for all your data 
-23:00 - 26:00 | API for GraphQL 
-26:00 - 31:00 | Real-Time Intelligence 
-31:00 - 36:00 | Copilot in Microsoft Fabric 
-36:00 - 41:00 | Closing / Calls to Action 
-
-### Slides in additional languages
-| Language | Last updated | 
-|------------------- | ---- |
-| [Spanish](https://aka.ms/AAs7u2a) | 2024.09.13 | 
-| [Portuguese](https://aka.ms/AAs7u2c) | 2024.09.13| 
+0:00 - 0:30   | Introduction 
+0:30 - 6:00  | Unified Data Platform
+6:00 - 11:00 | AI Powered Data Platform
+11:00 - 28:00 | Open and AI-Ready Data Lake
+28:00 - 34:00 | AI Enabled Insights
+34:00 - 41:00 | The Road Ahead
+41:00 - 45:00 | Closing
 
 ## Demos
 
 > All demos are provided as recordings inside the presentation deck. There is no need to setup any complex environments or worry about network access during your presentation.  Please ensure that you are aware of cues and timings in these recordings to ensure a high quality delivery!
-
-## Change Log
-Here is a log of the changes made to this file:
-
-| Date       | Changes |
-|------------|---------|
-| 2024.09.13 | Added Change log, Additional language section with Spanish and Portuguese PowerPoint slides |
