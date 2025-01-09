@@ -20,8 +20,8 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Session PowerPoint        | - [Presentation](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassetsmanagement952e.blob.core.windows.net%2Fassets%2FBRK460%2520Microsoft%2520Fabric%253A%2520What%2527s%2520new%2520and%2520what%2527s%2520next%2FAI%2520Tour%2520FY25%2520-%2520Microsoft%2520Fabric%2520What%2527s%2520new%2520and%2520what%2527s%2520next_V2.0.pptx&data=05%7C02%7Cpdecarlo%40microsoft.com%7Cec93f5a838784de7841b08dd1488b6ba%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638689299640533238%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pJYvE1EbFYALt2mwxW9lBONNY7wrrJ5FVDBwx9JFQAk%3D&reserved=0) | The presentation slides for this session |
-| Session PPT Recording     | - [Video](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fassetsmanagement952e.blob.core.windows.net%2Fassets%2FBRK460%2520Microsoft%2520Fabric%253A%2520What%2527s%2520new%2520and%2520what%2527s%2520next%2FAI%2520Tour%2520FY25%2520-%2520Microsoft%2520Fabric%2520What%2527s%2520new%2520and%2520what%2527s%2520next_V2.0.mp4&data=05%7C02%7Cpdecarlo%40microsoft.com%7C85e02f45addf4bc8c6bf08dd1483f494%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638689279311556269%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=kkh%2FjSb3XXZJF8MHkAn%2FBLyviAqnL4zNVKp6iWuMiKw%3D&reserved=0) |  Recorded delivery of the PowerPoint slides |
+| Session PowerPoint        | - [Presentation](https://aka.ms/AArpon1) | The presentation slides for this session |
+| Session PPT Recording     | - [Video](https://aka.ms/AArsifa) |  Recorded delivery of the PowerPoint slides |
 
 
 
